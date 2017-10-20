@@ -16,6 +16,7 @@ class ViewController: UIViewController {
     @IBOutlet var button3: UIButton!
     @IBOutlet var winLabel: UILabel!
     @IBOutlet var loseLabel: UILabel!
+    
     var kingIsHere: UIButton!
     var loseCounter = 0
     var winCounter = 0
