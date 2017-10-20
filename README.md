@@ -1,5 +1,3 @@
-SOME STUFF ON TOP OF README
-
 # 3 Card Monte
 
 ## Rules
@@ -7,9 +5,3 @@ SOME STUFF ON TOP OF README
 ## Author
 
 Luis Calle
-
-A new line
-
-Another line here
-=======
-A different line at the bottom
