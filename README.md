@@ -1,3 +1,5 @@
+SOME STUFF ON TOP OF README
+
 # 3 Card Monte
 
 ## Rules
